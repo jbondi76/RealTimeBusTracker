@@ -5,6 +5,8 @@ Title of the project: Real Time Bus Tracker
 
 Description of the project: This project uses an animated marker on a map to indicate the locations of all bus stops between Harvard and MIT.
 
+INSTRUCTIONS TO OPEN THE EXERCISE: Download the Zip file then be sure to extract all the files. Once extracted, you just need to open the HTML file in your browser. *NOTE - If you have GitHub Desktop downloaded on your device you can open the repository using desktop without the need to extract the files.
+
 How to Run: Load the bus.animation.html file to your browser and then click the button in the upper left-hand corner to view the bus stops along the route.
 
 Roadmap of future improvements: Would like to add a link that user can click on to be directed to the bus schedule website.
