@@ -1,4 +1,6 @@
 # RealTimeBusTracker
+
+<img src= "busthumb.png" width='300'/>
 Module 9 - Bus Tracker Animation Assignment
 
 Title of the project: Real Time Bus Tracker
